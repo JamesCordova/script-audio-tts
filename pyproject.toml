@@ -1,0 +1,8 @@
+[project]
+name = "script-auto-tts"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "edge-tts>=7.3.1",
+    "piper-tts>=1.8.0",
+]
