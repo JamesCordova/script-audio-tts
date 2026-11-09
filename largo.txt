@@ -1,0 +1,84 @@
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
+Entrevistador: Buenos días, gracias por venir. Cuéntame un poco sobre ti.
+Candidato: Buenos días. Soy ingeniero de software con cinco años de experiencia en desarrollo backend.
+Entrevistador: Perfecto. ¿Cuál dirías que ha sido tu mayor logro profesional?
+Candidato: Reduje el tiempo de respuesta de nuestra API en un sesenta por ciento optimizando las consultas a la base de datos.
+Entrevistador: Interesante. ¿Y cómo manejas los desacuerdos dentro de un equipo?
+Candidato: Prefiero escuchar primero, exponer datos concretos y buscar una solución en la que todos ganemos.
+Narrador: Fin de la entrevista simulada.
